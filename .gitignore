@@ -1,0 +1,19 @@
+HELP.md
+
+build/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+bin/
+*.env
+
+.DS_Store
+
